@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "functions/notify-for-kitchen-duty.js", "use": "@now/node" }
+  ]
+}
